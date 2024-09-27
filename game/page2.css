@@ -1,0 +1,16 @@
+/* #gamecontainer {
+    background-color: blue;
+} */
+
+#scoretext {
+    font-family: "Permanent Marker", cursive;
+    font-size: 50px;
+}
+
+.btn {
+    font-size: 30px;
+    font-family: "Permanent Marker", cusive;
+    border-radius: 15px;
+    cursor: pointer;
+    border: 3px solid;
+}

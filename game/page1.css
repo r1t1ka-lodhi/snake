@@ -1,0 +1,16 @@
+.back{
+    position:relative ;
+    width: 100%;
+    max-width: 400px;
+}
+/* .back img{
+    width: 600px;
+    height: 400px;
+} */
+.back .btn{
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    transform: translate(-50%,-50%);
+    
+}
